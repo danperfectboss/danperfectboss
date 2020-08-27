@@ -5,7 +5,8 @@ My name is **Daniel Mendoza** I am a **Data Scientist Jr** and **Full Stack Deve
 <br>
 <br>
 
-My LinkedIn profile: 
+My LinkedIn profile
+<br>
 <a href="https://www.linkedin.com/in/daniel-perfecto-784515160/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,9 +15,6 @@ My LinkedIn profile:
 - I'm a geek who enjoys programming a lot and I'm always looking to know more about technology.
 - Every day I strive to improve my programming skills.
 - I learn by myself
-
-
-
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
