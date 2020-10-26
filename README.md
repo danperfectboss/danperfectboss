@@ -18,7 +18,7 @@ My LinkedIn profile
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on Project for Twitter sentimental analysis, Data Science and Full Stack Developer. 
+- 🔭 I’m currently working on Project for a bot with Telegram and Python, Data Science and Full Stack Developer. 
 - 🌱 I’m currently learning Data Science and anything about the world of programming...
 <!--- 👯 I’m looking to collaborate on 
   🤔 I’m looking for help with ... 
