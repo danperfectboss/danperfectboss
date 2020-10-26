@@ -42,7 +42,7 @@ My LinkedIn profile
 <code><img height="30" src="https://www.spyder-ide.org/static/images/spyder-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
 
-**Some librarys:**
+**Some libraries:**
 - Pandas
 - Numpy
 - SckitLearn
