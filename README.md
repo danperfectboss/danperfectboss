@@ -1,7 +1,7 @@
 
 
 ### Hi Human  👋
-My name is **Daniel Mendoza** I'm a **Data Scientist Jr** and **Full Stack Developer** on Python-Django, I'm from Mexico Bachelor's Degree **Tecnology and System Information by Autonomy Metropolitan University**
+My name is **Daniel Mendoza** I'm a and **Backend Developer** on Python-Django, I'm from Mexico Bachelor's Degree **Tecnology and System Information by Autonomy Metropolitan University**
 <br>
 <br>
 
